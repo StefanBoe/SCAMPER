@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Scamper</string>
+    <string name="title">SCAMPER</string>
+    <string name="btn_start">Starten</string>
+    <string name="btn_projects">Alle Problemstellungen</string>
+    <string name="btn_settings">Einstellungen</string>
+    <string name="btn_back">Zurück</string>
+    <string name="btn_edit">Bearbeiten</string>
+    <string name="btn_delete">Löschen</string>
+    <string name="btn_next">Weiter</string>
+    <string name="btn_start_again">Weiter bearbeiten</string>
+    <string name="btn_neue_problemstellung">Neue Problemstellung</string>
+    <string name="tf_settings">Einstellungen</string>
+    <string name="tf_numberQuestions">Anzahl der Fragen zu jeder Kategorie</string>
+    <string name="tf_startscreen">Welche Startoption wollen Sie?</string>
+    <string name="substitute">Substitute - Ersetzen\n Es geht darum, etwas in der Idee oder Problemstellung zu ersetzen. Die Fragen und Zufallswörter dienen dabei als Hilfestellung</string>
+    <string name="combine">Combine - Kombinieren\n Die Idee oder Problemstellung mit etwas kombinieren um diese durch Erweiterungen oder neue Ideen zu verbessern</string>
+    <string name="adapt">Adapt - Anpassen\n Gezielt Teile der Problemstellung betrachten und diese besser den Zielen anpassen</string>
+    <string name="modify">Modify - Verändern \n Teilaspekte der Problemstellung variieren indem z.B der Maßstab verändert wird </string>
+    <string name="put">Put to another use - Eine andere Verwendung finden \n Die Idee oder Problemstellung in anderen Bereichen einsetzen um weitere Verwendungsmöglichkeiten zu entdecken</string>
+    <string name="eliminate">Eliminate - Entfernen \n Es sollen Teile der Problemstellung entfernt werden, damit die Idee verbessert werden kann</string>
+    <string name="reverse">Reverse - Umkehren\n Teilaspekte der Problemstellung umkehren um neue Ansätze für Verbesserungen zu erhalten</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_help">Hilfe</string>
+    <string name="action_dice">Zufallswort</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tf_start">Problemstellung eingeben</string>
+    <string name="tf_help">Hier steht die Hilfe für diesen Screen</string>
+    <string name="tf_idea">Alle Problemstellungen</string>
+    <string name="tf_ideaName">Problemstellungen</string>
+    <string name="tf_help_main">Hier kann eine Problemstellung eingegeben werden. Wenn Sie auf Starten drücken, werden Fragen zu dieser Problemstellung gestellt.
+    Wenn Sie auf Alle Problemstellungen drücken, erhalten Sie eine Übersicht über alle bisher erstellten Problemstellungen</string>
+    <string name="tf_help_settings">Hier kann die Anzahl der Fragen zu jeder Scamper Kategorie und die Startoption eingestellt werden. Mit der "Zufallsfrage"-Startoption starten Sie bei einer zufälligen Frage</string>
+    <string name="tf_help_idea">Hier sehen Sie eine Liste aller Problemstellungen. Sie können eine auswählen, indem Sie auf diese drücken. Falls hier keine Idee erscheint, haben Sie noch keine erstellt oder alle Ideen gelöscht</string>
+    <string name="tf_help_idea_overview">Drücken Sie auf eine Frage um die Antwort auf diese Frage zu ändern. Wenn Sie auf Löschen drücken, können Sie die aktuelle Problemstellung Löschen. Drücken Sie auf
+    "Weiter bearbeiten" um neue Fragen zu beantworten</string>
+    <string name="tf_help_question_edit">Hier können Sie die Antwort auf die Frage ändern</string>
+    <string name="tf_help_question">Hier können Sie Antworten auf die Fragen eingeben. Drücken Sie auf Weiter, damit die nächste Frage gestellt wird. Solange bis alle Fragen beantwortet wurden. Wird nichts als Antwort eingegeben, wird
+    die Frage übersprungen. Wenn Sie auf den "Zurück"-Button drücken wird die Idee gespeichert</string>
+    <string name="radio_text_letzteFrage">Bei letzter Frage starten</string>
+    <string name="title_activity_question">Scamper Fragen</string>
+    <string name="title_activity_question_edit">Frage bearbeiten</string>
+    <string name="title_activity_idea">Alle Problemstellungen</string>
+    <string name="title_activity_idea_overview">Problemstellung</string>
+    <string name="btn_save">Speichern</string>
+    <string name="btn_default">Standard Einstellungen wiederherstellen</string>
+    <color name="black_transparent">#D6000000</color>
+</resources>

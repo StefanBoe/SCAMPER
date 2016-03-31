@@ -1,0 +1,92 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"  tools:context=".MainActivity"
+    android:id="@+id/mainView">
+
+    <LinearLayout
+        android:id="@+id/mainLinearLayout"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/title"
+            android:id="@+id/textView"
+            android:layout_gravity="center_horizontal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/tf_start"
+            android:id="@+id/textView2"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="100dp"
+            android:focusableInTouchMode="false" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="4"
+            android:id="@+id/textIdeaName"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="50px" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_start"
+            android:id="@+id/btn_start"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="80px"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="0.4"
+            android:gravity="bottom"
+            >
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/btn_projects"
+                android:id="@+id/btn_projects"
+                android:layout_gravity="center_horizontal"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <RelativeLayout
+        android:id="@+id/help_overlay"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@color/black_transparent"
+        android:layout_weight="1"
+        android:visibility="gone">
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/tf_help"
+        android:id="@+id/helpText"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:focusableInTouchMode="false"
+        android:textColor="#999999" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
