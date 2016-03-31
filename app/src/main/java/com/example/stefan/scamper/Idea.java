@@ -1,4 +1,4 @@
-package com.example.steveboo.scamper;
+package com.example.stefan.scamper;
 
 import java.io.Serializable;
 import java.util.ArrayList;

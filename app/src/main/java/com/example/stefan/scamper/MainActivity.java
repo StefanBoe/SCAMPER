@@ -1,4 +1,4 @@
-package com.example.steveboo.scamper;
+package com.example.stefan.scamper;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -8,7 +8,6 @@ import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.ActionBarActivity;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.MotionEvent;
@@ -23,12 +22,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 
-import java.util.ArrayList;
-
 import uk.co.deanwild.materialshowcaseview.MaterialShowcaseSequence;
-import uk.co.deanwild.materialshowcaseview.MaterialShowcaseView;
 import uk.co.deanwild.materialshowcaseview.ShowcaseConfig;
-import uk.co.deanwild.materialshowcaseview.target.Target;
 
 
 public class MainActivity extends ActionBarActivity implements OnClickListener{

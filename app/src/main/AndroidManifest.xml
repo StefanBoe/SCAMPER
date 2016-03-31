@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.steveboo.scamper" >
+    package="com.example.stefan.scamper" >
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
     <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE"/>
@@ -14,7 +14,7 @@
         >
 
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.stefan.scamper.MainActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait">
             <intent-filter>
@@ -23,29 +23,29 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".SettingsActivity"
+            android:name="com.example.stefan.scamper.SettingsActivity"
             android:label="@string/title_activity_settings"
             android:screenOrientation="portrait">
         </activity>
         <activity
-            android:name=".QuestionActivity"
+            android:name="com.example.stefan.scamper.QuestionActivity"
             android:label="@string/title_activity_question"
             android:windowSoftInputMode="adjustPan"
             android:screenOrientation="portrait">
         </activity>
         <activity
-            android:name=".QuestionEditActivity"
+            android:name="com.example.stefan.scamper.QuestionEditActivity"
             android:label="@string/title_activity_question_edit"
             android:screenOrientation="portrait">
         </activity>
         <activity
-            android:name=".IdeaActivity"
+            android:name="com.example.stefan.scamper.IdeaActivity"
             android:label="@string/title_activity_idea"
             android:screenOrientation="portrait">
 
         </activity>
         <activity
-            android:name=".IdeaOverviewActivity"
+            android:name="com.example.stefan.scamper.IdeaOverviewActivity"
             android:label="@string/title_activity_idea_overview"
             android:screenOrientation="portrait">
         </activity>

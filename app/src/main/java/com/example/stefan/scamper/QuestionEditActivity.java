@@ -1,4 +1,4 @@
-package com.example.steveboo.scamper;
+package com.example.stefan.scamper;
 
 import android.content.Context;
 import android.content.Intent;

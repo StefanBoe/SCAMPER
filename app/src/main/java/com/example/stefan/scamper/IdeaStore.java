@@ -1,8 +1,7 @@
-package com.example.steveboo.scamper;
+package com.example.stefan.scamper;
 
 import android.os.Environment;
 import android.util.Log;
-import android.widget.Toast;
 
 import java.io.File;
 import java.io.FileInputStream;
