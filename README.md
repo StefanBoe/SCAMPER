@@ -15,4 +15,4 @@ Diese sind in sieben Kategorien eingeteilt. Die sieben Kategorien sind sowohl f√
 
 Die App verwendet die SCAMPER-Methode, indem dem Nutzer Fragen der verschiedenen Kategorien gestellt werden.
 
-[Download] (https://github.com/StefanBoe/Scamper/app/app-release.apk)
+[Download] (https://github.com/StefanBoe/Scamper/blob/master/app/app-release.apk)
