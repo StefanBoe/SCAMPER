@@ -14,5 +14,6 @@ Diese sind in sieben Kategorien eingeteilt. Die sieben Kategorien sind sowohl f√
 - Reverse - Teilaspekte der Idee umkehren
 
 Die App verwendet die SCAMPER-Methode, indem dem Nutzer Fragen der verschiedenen Kategorien gestellt werden.
+Die Fragen sind dabei abstrakt zu betrachten. Nicht jede Frage passt zu jeder eingegebenen Problemstellung. Die Fragen sollen lediglich dazu anregen, auf neue Gedanken zu kommen.
 
 [Download] (https://github.com/StefanBoe/Scamper/releases/tag/1.0)
