@@ -1,6 +1,8 @@
 # Scamper
 Die Scamper-App entstand im Praxisprojekt der TH Köln und wurde in meiner Bachelor Arbeit erweitert.
 
+[Download] (https://github.com/StefanBoe/Scamper/releases/tag/1.0)
+
 ###Was ist Scamper
 Die App wurde mit der Absicht entwickelt, Nutzern dabei zu helfen kreative Lösungen für Probleme zu finden. Dazu wurde 
 die SCAMPER-Methode verwendet, die von Alex Osborn erstellt und von Bob Eberle weiterentwickelt wurde. Bei dieser Methode wird eine Checkliste mit Fragen abgearbeitet. 
@@ -16,4 +18,4 @@ Diese sind in sieben Kategorien eingeteilt. Die sieben Kategorien sind sowohl f�
 Die App verwendet die SCAMPER-Methode, indem dem Nutzer Fragen der verschiedenen Kategorien gestellt werden.
 Die Fragen sind dabei abstrakt zu betrachten. Nicht jede Frage passt zu jeder eingegebenen Problemstellung. Die Fragen sollen lediglich dazu anregen, auf neue Gedanken zu kommen.
 
-[Download] (https://github.com/StefanBoe/Scamper/releases/tag/1.0)
+
